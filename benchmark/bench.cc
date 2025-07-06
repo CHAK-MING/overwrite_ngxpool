@@ -1,6 +1,5 @@
 #include <chrono>
 #include <iostream>
-#include <numeric>
 #include <vector>
 
 #include "ngx_mem_pool.h"
