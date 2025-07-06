@@ -21,4 +21,7 @@ Makefile
 
 # Cache files
 .cache/
+.cache/clang/
+.cache/clang++/
+.cache/clang++/
 
